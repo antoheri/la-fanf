@@ -21,7 +21,7 @@ Une stack complète pour gérer les ressources d'une fanfare ou d'un orchestre :
 
 ## Statut
 
-MVP en développement. Première version prévue pour [date].
+MVP en développement.
 
 ## Architecture
 
