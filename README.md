@@ -1,2 +1,34 @@
-# la-fanf
-Infrastructure pour ensembles musicaux  Stack Docker complète déployant Nextcloud (partage de partitions), calendrier partagé et VPN sécurisé pour fanfares et orchestres. Automatisation CI/CD, monitoring et backups inclus. Projet personnel de démonstration en infrastructure/DevOps.
+# La Fanf
+
+Infrastructure Docker pour ensembles musicaux. Projet en cours de construction.
+
+## Vision
+
+Une stack complète pour gérer les ressources d'une fanfare ou d'un orchestre :
+- Partage de partitions et documents
+- Planning des répétitions et concerts
+- Accès sécurisé via VPN
+
+## Stack technique
+
+- Docker Compose
+- Nextcloud
+- [Calendrier à définir]
+- VPN (WireGuard)
+- Nginx (reverse proxy + SSL)
+- Prometheus + Grafana (monitoring)
+- CI/CD (GitHub Actions)
+
+## Statut
+
+MVP en développement. Première version prévue pour [date].
+
+## Architecture
+
+[Diagramme à venir]
+
+## Déploiement
+
+[Documentation à venir]
+
+---
